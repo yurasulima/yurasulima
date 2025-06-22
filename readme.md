@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Feature Tracker](https://github.com/yurasulima/feature-tracker)
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **Telegram mini app**
 
 - 📫 How to reach me **yuriisulyma@gmail.com**
 
