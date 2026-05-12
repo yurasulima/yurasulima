@@ -59,10 +59,10 @@ Passionate backend developer with a focus on building clean, scalable services u
   <table border="0" width="100%" style="max-width: 900px;">
     <tr>
       <td align="center" width="33%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yurasulima&theme=dark" width="100%" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yurasulima&theme=dark" width="100%" />
       </td>
       <td align="center" width="33%">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yurasulima&theme=dark" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=yurasulima&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=300" alt="GitHub Streak" />
       </td>
       <td align="center" width="33%">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yurasulima&theme=dark" width="100%" />
