@@ -51,9 +51,6 @@ Passionate backend developer with a focus on building clean, scalable services u
 ---
 
 ## 📊 Stats 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yurasulima&theme=dark&hide_border=true&area=true&bg_color=0D1117" width="100%" />
-</p>
 
 <div align="center">
   <table border="0" width="100%" style="max-width: 900px;">
